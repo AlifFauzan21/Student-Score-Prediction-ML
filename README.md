@@ -5,15 +5,15 @@ Normalisasi dan eksplorasi hubungan antara jumlah jam belajar dan skor nilai.
 🤖 Machine Learning Models
 Beberapa algoritma digunakan untuk membandingkan performa model:
 
-Linear Regression
+-Linear Regression
 MAE: 3.92
 MSE: 18.94
 R² Score: 0.968
-Decision Tree Regressor
+-Decision Tree Regressor
 MAE: 5.4
 MSE: 31.7
 R² Score: 0.946
-Random Forest Regressor (Best Model)
+-Random Forest Regressor (Best Model)
 MAE: 2.78
 MSE: 13.05
 R² Score: 0.978
